@@ -17,8 +17,6 @@ import rc.legostoremaven.model.LegoSetDifficulty;
 import rc.legostoremaven.model.QLegoSet;
 import rc.legostoremaven.persistence.LegoSetRepository;
 
-import javax.xml.soap.Text;
-import java.util.ArrayList;
 import java.util.Collection;
 
 @RestController
